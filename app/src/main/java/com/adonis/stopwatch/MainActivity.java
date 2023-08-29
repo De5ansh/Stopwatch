@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import org.w3c.dom.Text;
 
-import java.util.Locale;
+import java.util.Loc
 
 public class MainActivity extends Activity {
 
